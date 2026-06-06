@@ -1,0 +1,15 @@
+包文海私人作品集
+
+输出文件: BaoWenhai_Private_Portfolio.pdf
+总页数: 42
+
+整理说明:
+- 前3页为根据简历信息整理的个人页。
+- 后续案例页保留原始PDF内容，仅做精选编排。
+
+精选案例来源与页码:
+- CASE 01 南京金陵序 176户型: jinlingxu_176_final.pdf -> 页码 1, 4, 6, 9, 12, 17, 23
+- CASE 02 南京天琴华樟 300户型: tianqinhuazhang_300_final.pdf -> 页码 1, 4, 7, 17, 20, 27, 35
+- CASE 03 伟星长江之歌: weixing_changjiang_effect.pdf -> 页码 1, 3, 7, 9, 14, 18
+- CASE 04 长江国际 7栋东边户: changjiangguoji_east.pdf -> 页码 1, 4, 11, 20, 33, 42, 52
+- CASE 05 南京习酒君品馆: xijiu_hall.pdf -> 页码 1, 3, 6, 10, 15, 17, 20
